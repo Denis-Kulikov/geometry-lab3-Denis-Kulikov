@@ -1,2 +1,4 @@
-ex
+*.d
+*.a
 *.o
+bin/geometry
